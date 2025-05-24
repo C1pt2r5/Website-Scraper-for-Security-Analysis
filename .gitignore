@@ -1,0 +1,21 @@
+# .gitignore for Python projects
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.sqlite3
+*.db
+.env
+config.json
+.DS_Store
+venv/
+build/
+dist/
+*.log
+*.bak
+*.swp
+*.tmp
+.idea/
+*.pkl
+*.csv
+*.sqlite
+*.evtx
